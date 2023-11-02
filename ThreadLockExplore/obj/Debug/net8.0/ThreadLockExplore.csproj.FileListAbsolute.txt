@@ -1,0 +1,14 @@
+C:\Users\vladx\RiderProjects\CSharpExplore\ThreadLockExplore\bin\Debug\net8.0\ThreadLockExplore.exe
+C:\Users\vladx\RiderProjects\CSharpExplore\ThreadLockExplore\bin\Debug\net8.0\ThreadLockExplore.deps.json
+C:\Users\vladx\RiderProjects\CSharpExplore\ThreadLockExplore\bin\Debug\net8.0\ThreadLockExplore.runtimeconfig.json
+C:\Users\vladx\RiderProjects\CSharpExplore\ThreadLockExplore\bin\Debug\net8.0\ThreadLockExplore.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\ThreadLockExplore\bin\Debug\net8.0\ThreadLockExplore.pdb
+C:\Users\vladx\RiderProjects\CSharpExplore\ThreadLockExplore\obj\Debug\net8.0\ThreadLockExplore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladx\RiderProjects\CSharpExplore\ThreadLockExplore\obj\Debug\net8.0\ThreadLockExplore.AssemblyInfoInputs.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\ThreadLockExplore\obj\Debug\net8.0\ThreadLockExplore.AssemblyInfo.cs
+C:\Users\vladx\RiderProjects\CSharpExplore\ThreadLockExplore\obj\Debug\net8.0\ThreadLockExplore.csproj.CoreCompileInputs.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\ThreadLockExplore\obj\Debug\net8.0\ThreadLockExplore.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\ThreadLockExplore\obj\Debug\net8.0\refint\ThreadLockExplore.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\ThreadLockExplore\obj\Debug\net8.0\ThreadLockExplore.pdb
+C:\Users\vladx\RiderProjects\CSharpExplore\ThreadLockExplore\obj\Debug\net8.0\ThreadLockExplore.genruntimeconfig.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\ThreadLockExplore\obj\Debug\net8.0\ref\ThreadLockExplore.dll

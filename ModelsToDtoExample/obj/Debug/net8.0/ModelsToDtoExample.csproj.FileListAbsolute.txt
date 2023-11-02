@@ -1,0 +1,14 @@
+C:\Users\vladx\RiderProjects\CSharpExplore\ModelsToDtoExample\bin\Debug\net8.0\ModelsToDtoExample.exe
+C:\Users\vladx\RiderProjects\CSharpExplore\ModelsToDtoExample\bin\Debug\net8.0\ModelsToDtoExample.deps.json
+C:\Users\vladx\RiderProjects\CSharpExplore\ModelsToDtoExample\bin\Debug\net8.0\ModelsToDtoExample.runtimeconfig.json
+C:\Users\vladx\RiderProjects\CSharpExplore\ModelsToDtoExample\bin\Debug\net8.0\ModelsToDtoExample.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\ModelsToDtoExample\bin\Debug\net8.0\ModelsToDtoExample.pdb
+C:\Users\vladx\RiderProjects\CSharpExplore\ModelsToDtoExample\obj\Debug\net8.0\ModelsToDtoExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladx\RiderProjects\CSharpExplore\ModelsToDtoExample\obj\Debug\net8.0\ModelsToDtoExample.AssemblyInfoInputs.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\ModelsToDtoExample\obj\Debug\net8.0\ModelsToDtoExample.AssemblyInfo.cs
+C:\Users\vladx\RiderProjects\CSharpExplore\ModelsToDtoExample\obj\Debug\net8.0\ModelsToDtoExample.csproj.CoreCompileInputs.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\ModelsToDtoExample\obj\Debug\net8.0\ModelsToDtoExample.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\ModelsToDtoExample\obj\Debug\net8.0\refint\ModelsToDtoExample.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\ModelsToDtoExample\obj\Debug\net8.0\ModelsToDtoExample.pdb
+C:\Users\vladx\RiderProjects\CSharpExplore\ModelsToDtoExample\obj\Debug\net8.0\ModelsToDtoExample.genruntimeconfig.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\ModelsToDtoExample\obj\Debug\net8.0\ref\ModelsToDtoExample.dll

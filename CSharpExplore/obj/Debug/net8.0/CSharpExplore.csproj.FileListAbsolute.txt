@@ -1,0 +1,14 @@
+C:\Users\vladx\RiderProjects\CSharpExplore\CSharpExplore\bin\Debug\net8.0\CSharpExplore.exe
+C:\Users\vladx\RiderProjects\CSharpExplore\CSharpExplore\bin\Debug\net8.0\CSharpExplore.deps.json
+C:\Users\vladx\RiderProjects\CSharpExplore\CSharpExplore\bin\Debug\net8.0\CSharpExplore.runtimeconfig.json
+C:\Users\vladx\RiderProjects\CSharpExplore\CSharpExplore\bin\Debug\net8.0\CSharpExplore.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\CSharpExplore\bin\Debug\net8.0\CSharpExplore.pdb
+C:\Users\vladx\RiderProjects\CSharpExplore\CSharpExplore\obj\Debug\net8.0\CSharpExplore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladx\RiderProjects\CSharpExplore\CSharpExplore\obj\Debug\net8.0\CSharpExplore.AssemblyInfoInputs.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\CSharpExplore\obj\Debug\net8.0\CSharpExplore.AssemblyInfo.cs
+C:\Users\vladx\RiderProjects\CSharpExplore\CSharpExplore\obj\Debug\net8.0\CSharpExplore.csproj.CoreCompileInputs.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\CSharpExplore\obj\Debug\net8.0\CSharpExplore.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\CSharpExplore\obj\Debug\net8.0\refint\CSharpExplore.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\CSharpExplore\obj\Debug\net8.0\CSharpExplore.pdb
+C:\Users\vladx\RiderProjects\CSharpExplore\CSharpExplore\obj\Debug\net8.0\CSharpExplore.genruntimeconfig.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\CSharpExplore\obj\Debug\net8.0\ref\CSharpExplore.dll

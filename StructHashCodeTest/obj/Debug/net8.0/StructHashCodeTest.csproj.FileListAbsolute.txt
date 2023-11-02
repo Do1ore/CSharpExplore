@@ -1,0 +1,14 @@
+C:\Users\vladx\RiderProjects\CSharpExplore\StructHashCodeTest\bin\Debug\net8.0\StructHashCodeTest.exe
+C:\Users\vladx\RiderProjects\CSharpExplore\StructHashCodeTest\bin\Debug\net8.0\StructHashCodeTest.deps.json
+C:\Users\vladx\RiderProjects\CSharpExplore\StructHashCodeTest\bin\Debug\net8.0\StructHashCodeTest.runtimeconfig.json
+C:\Users\vladx\RiderProjects\CSharpExplore\StructHashCodeTest\bin\Debug\net8.0\StructHashCodeTest.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\StructHashCodeTest\bin\Debug\net8.0\StructHashCodeTest.pdb
+C:\Users\vladx\RiderProjects\CSharpExplore\StructHashCodeTest\obj\Debug\net8.0\StructHashCodeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladx\RiderProjects\CSharpExplore\StructHashCodeTest\obj\Debug\net8.0\StructHashCodeTest.AssemblyInfoInputs.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\StructHashCodeTest\obj\Debug\net8.0\StructHashCodeTest.AssemblyInfo.cs
+C:\Users\vladx\RiderProjects\CSharpExplore\StructHashCodeTest\obj\Debug\net8.0\StructHashCodeTest.csproj.CoreCompileInputs.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\StructHashCodeTest\obj\Debug\net8.0\StructHashCodeTest.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\StructHashCodeTest\obj\Debug\net8.0\refint\StructHashCodeTest.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\StructHashCodeTest\obj\Debug\net8.0\StructHashCodeTest.pdb
+C:\Users\vladx\RiderProjects\CSharpExplore\StructHashCodeTest\obj\Debug\net8.0\StructHashCodeTest.genruntimeconfig.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\StructHashCodeTest\obj\Debug\net8.0\ref\StructHashCodeTest.dll

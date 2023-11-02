@@ -1,0 +1,14 @@
+C:\Users\vladx\RiderProjects\CSharpExplore\EqualExploration\bin\Debug\net8.0\EqualExploration.exe
+C:\Users\vladx\RiderProjects\CSharpExplore\EqualExploration\bin\Debug\net8.0\EqualExploration.deps.json
+C:\Users\vladx\RiderProjects\CSharpExplore\EqualExploration\bin\Debug\net8.0\EqualExploration.runtimeconfig.json
+C:\Users\vladx\RiderProjects\CSharpExplore\EqualExploration\bin\Debug\net8.0\EqualExploration.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\EqualExploration\bin\Debug\net8.0\EqualExploration.pdb
+C:\Users\vladx\RiderProjects\CSharpExplore\EqualExploration\obj\Debug\net8.0\EqualExploration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladx\RiderProjects\CSharpExplore\EqualExploration\obj\Debug\net8.0\EqualExploration.AssemblyInfoInputs.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\EqualExploration\obj\Debug\net8.0\EqualExploration.AssemblyInfo.cs
+C:\Users\vladx\RiderProjects\CSharpExplore\EqualExploration\obj\Debug\net8.0\EqualExploration.csproj.CoreCompileInputs.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\EqualExploration\obj\Debug\net8.0\EqualExploration.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\EqualExploration\obj\Debug\net8.0\refint\EqualExploration.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\EqualExploration\obj\Debug\net8.0\EqualExploration.pdb
+C:\Users\vladx\RiderProjects\CSharpExplore\EqualExploration\obj\Debug\net8.0\EqualExploration.genruntimeconfig.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\EqualExploration\obj\Debug\net8.0\ref\EqualExploration.dll

@@ -1,0 +1,14 @@
+C:\Users\vladx\RiderProjects\CSharpExplore\SemaphoreSlimExample\bin\Debug\net8.0\SemaphoreSlimExample.exe
+C:\Users\vladx\RiderProjects\CSharpExplore\SemaphoreSlimExample\bin\Debug\net8.0\SemaphoreSlimExample.deps.json
+C:\Users\vladx\RiderProjects\CSharpExplore\SemaphoreSlimExample\bin\Debug\net8.0\SemaphoreSlimExample.runtimeconfig.json
+C:\Users\vladx\RiderProjects\CSharpExplore\SemaphoreSlimExample\bin\Debug\net8.0\SemaphoreSlimExample.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\SemaphoreSlimExample\bin\Debug\net8.0\SemaphoreSlimExample.pdb
+C:\Users\vladx\RiderProjects\CSharpExplore\SemaphoreSlimExample\obj\Debug\net8.0\SemaphoreSlimExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladx\RiderProjects\CSharpExplore\SemaphoreSlimExample\obj\Debug\net8.0\SemaphoreSlimExample.AssemblyInfoInputs.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\SemaphoreSlimExample\obj\Debug\net8.0\SemaphoreSlimExample.AssemblyInfo.cs
+C:\Users\vladx\RiderProjects\CSharpExplore\SemaphoreSlimExample\obj\Debug\net8.0\SemaphoreSlimExample.csproj.CoreCompileInputs.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\SemaphoreSlimExample\obj\Debug\net8.0\SemaphoreSlimExample.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\SemaphoreSlimExample\obj\Debug\net8.0\refint\SemaphoreSlimExample.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\SemaphoreSlimExample\obj\Debug\net8.0\SemaphoreSlimExample.pdb
+C:\Users\vladx\RiderProjects\CSharpExplore\SemaphoreSlimExample\obj\Debug\net8.0\SemaphoreSlimExample.genruntimeconfig.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\SemaphoreSlimExample\obj\Debug\net8.0\ref\SemaphoreSlimExample.dll

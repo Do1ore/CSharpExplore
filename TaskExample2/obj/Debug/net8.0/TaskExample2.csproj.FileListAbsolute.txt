@@ -1,0 +1,14 @@
+C:\Users\vladx\RiderProjects\CSharpExplore\TaskExample2\bin\Debug\net8.0\TaskExample2.exe
+C:\Users\vladx\RiderProjects\CSharpExplore\TaskExample2\bin\Debug\net8.0\TaskExample2.deps.json
+C:\Users\vladx\RiderProjects\CSharpExplore\TaskExample2\bin\Debug\net8.0\TaskExample2.runtimeconfig.json
+C:\Users\vladx\RiderProjects\CSharpExplore\TaskExample2\bin\Debug\net8.0\TaskExample2.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\TaskExample2\bin\Debug\net8.0\TaskExample2.pdb
+C:\Users\vladx\RiderProjects\CSharpExplore\TaskExample2\obj\Debug\net8.0\TaskExample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladx\RiderProjects\CSharpExplore\TaskExample2\obj\Debug\net8.0\TaskExample2.AssemblyInfoInputs.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\TaskExample2\obj\Debug\net8.0\TaskExample2.AssemblyInfo.cs
+C:\Users\vladx\RiderProjects\CSharpExplore\TaskExample2\obj\Debug\net8.0\TaskExample2.csproj.CoreCompileInputs.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\TaskExample2\obj\Debug\net8.0\TaskExample2.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\TaskExample2\obj\Debug\net8.0\refint\TaskExample2.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\TaskExample2\obj\Debug\net8.0\TaskExample2.pdb
+C:\Users\vladx\RiderProjects\CSharpExplore\TaskExample2\obj\Debug\net8.0\TaskExample2.genruntimeconfig.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\TaskExample2\obj\Debug\net8.0\ref\TaskExample2.dll

@@ -1,0 +1,14 @@
+C:\Users\vladx\RiderProjects\CSharpExplore\LambdaExploration\bin\Debug\net8.0\LambdaExploration.exe
+C:\Users\vladx\RiderProjects\CSharpExplore\LambdaExploration\bin\Debug\net8.0\LambdaExploration.deps.json
+C:\Users\vladx\RiderProjects\CSharpExplore\LambdaExploration\bin\Debug\net8.0\LambdaExploration.runtimeconfig.json
+C:\Users\vladx\RiderProjects\CSharpExplore\LambdaExploration\bin\Debug\net8.0\LambdaExploration.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\LambdaExploration\bin\Debug\net8.0\LambdaExploration.pdb
+C:\Users\vladx\RiderProjects\CSharpExplore\LambdaExploration\obj\Debug\net8.0\LambdaExploration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladx\RiderProjects\CSharpExplore\LambdaExploration\obj\Debug\net8.0\LambdaExploration.AssemblyInfoInputs.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\LambdaExploration\obj\Debug\net8.0\LambdaExploration.AssemblyInfo.cs
+C:\Users\vladx\RiderProjects\CSharpExplore\LambdaExploration\obj\Debug\net8.0\LambdaExploration.csproj.CoreCompileInputs.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\LambdaExploration\obj\Debug\net8.0\LambdaExploration.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\LambdaExploration\obj\Debug\net8.0\refint\LambdaExploration.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\LambdaExploration\obj\Debug\net8.0\LambdaExploration.pdb
+C:\Users\vladx\RiderProjects\CSharpExplore\LambdaExploration\obj\Debug\net8.0\LambdaExploration.genruntimeconfig.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\LambdaExploration\obj\Debug\net8.0\ref\LambdaExploration.dll

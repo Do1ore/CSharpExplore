@@ -1,0 +1,14 @@
+C:\Users\vladx\RiderProjects\CSharpExplore\StringExample\bin\Debug\net8.0\StringExample.exe
+C:\Users\vladx\RiderProjects\CSharpExplore\StringExample\bin\Debug\net8.0\StringExample.deps.json
+C:\Users\vladx\RiderProjects\CSharpExplore\StringExample\bin\Debug\net8.0\StringExample.runtimeconfig.json
+C:\Users\vladx\RiderProjects\CSharpExplore\StringExample\bin\Debug\net8.0\StringExample.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\StringExample\bin\Debug\net8.0\StringExample.pdb
+C:\Users\vladx\RiderProjects\CSharpExplore\StringExample\obj\Debug\net8.0\StringExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladx\RiderProjects\CSharpExplore\StringExample\obj\Debug\net8.0\StringExample.AssemblyInfoInputs.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\StringExample\obj\Debug\net8.0\StringExample.AssemblyInfo.cs
+C:\Users\vladx\RiderProjects\CSharpExplore\StringExample\obj\Debug\net8.0\StringExample.csproj.CoreCompileInputs.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\StringExample\obj\Debug\net8.0\StringExample.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\StringExample\obj\Debug\net8.0\refint\StringExample.dll
+C:\Users\vladx\RiderProjects\CSharpExplore\StringExample\obj\Debug\net8.0\StringExample.pdb
+C:\Users\vladx\RiderProjects\CSharpExplore\StringExample\obj\Debug\net8.0\StringExample.genruntimeconfig.cache
+C:\Users\vladx\RiderProjects\CSharpExplore\StringExample\obj\Debug\net8.0\ref\StringExample.dll
